@@ -21,6 +21,6 @@
 * 35[35_lesson] - Повторить все манипуляции, сделанные на уроке; дореализовать SignUpServlet; скинуть скрины.
 * 36[36_lesson] - Добавить в проект freemaker - в итоговом варианте шаблонов несколько.
 * 37[37_lesson] - Spring MVC
-* 38[main] - Получение профиля `GET /accounts/{account-id}`.
+* 38[master] - Получение профиля `GET /accounts/{account-id}`.
 Получение всех с поиском/без, если не передан параметр `GET /accounts?q={email, firstName, lastName}`.
 Добавление аккаунта `POST /accounts`
